@@ -3,7 +3,7 @@
 I'm **Giovanni**, a **Full Stack Web Developer**  
 
 ### 👨‍💻 About me
-- 🎓 Graduated from **Boolean** coding bootcamp (specialized in **PHP/Laravel**, **React**, **MySQL**).
+- 🎓 Graduated from **Boolean** (specialized in **PHP/Laravel**, **React**, **MySQL**).
 - 💻 I love building full stack applications with a focus on **clean code**, **usability** and **scalability**.
 - 🌱 Currently learning and experimenting with **Vue.js** alongside React.
 - 🔎 Interested in working in **hybrid or remote teams**, preferably in dynamic environments like startups.
