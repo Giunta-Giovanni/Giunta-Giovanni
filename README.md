@@ -3,7 +3,7 @@
 I'm **Giovanni**, a **Full Stack Web Developer**  
 
 ### 👨‍💻 About me
-- 🎓 Graduated from **Boolean** (specialized in **PHP/Laravel**, **React**, **MySQL**).
+- 🎓 Graduated from **Boolean** (specialized in **PHP/Laravel**, **javascript/React**, **nodeJs/Express** **MySQL/PhpMyAdmin**).
 - 💻 I love building full stack applications with a focus on **clean code**, **usability** and **scalability**.
 - 🌱 Currently learning and experimenting with **Vue.js** alongside React.
 - 🔎 Interested in working in **hybrid or remote teams**, preferably in dynamic environments like startups.
@@ -12,7 +12,7 @@ I'm **Giovanni**, a **Full Stack Web Developer**
 ### 🛠️ Tech Stack
 - **Frontend:** React, Vue, JavaScript (ES6+), HTML5, CSS3, Tailwind, Bootstrap  
 - **Backend:** PHP, Laravel, Node.js, Express  
-- **Database:** MySQL  
+- **Database:** MySQL, PhpMyAdmin
 - **Server & Tools:** Nginx, Git, GitHub, REST APIs, Vite, Docker (basic)  
 
 ### 📫 Contact
