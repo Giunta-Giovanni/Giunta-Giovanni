@@ -1,23 +1,29 @@
-## Hi there 👋
+## Hi there
 
-I'm **Giovanni**, a **Full Stack Web Developer**  
+I'm **Giovanni**, a **Back-End Java Developer** with a full stack background.
 
-### 👨‍💻 About me
-- 🎓 Graduated from **Boolean** (specialized in **PHP/Laravel**, **javascript/React**, **nodeJs/Express** **MySQL/PhpMyAdmin**).
-- 💻 I love building full stack applications with a focus on **clean code**, **usability** and **scalability**.
-- 🌱 Currently learning and experimenting with **Vue.js** alongside React.
-- 🔎 Interested in working in **hybrid or remote teams**, preferably in dynamic environments like startups.
-- 🤝 Open to collaborations on **open source** and **innovative projects**.
+### About me
 
-### 🛠️ Tech Stack
-- **Frontend:** React, Vue, JavaScript (ES6+), HTML5, CSS3, Tailwind, Bootstrap  
-- **Backend:** PHP, Laravel, Node.js, Express  
-- **Database:** MySQL, PhpMyAdmin
-- **Server & Tools:** Nginx, Git, GitHub, REST APIs, Vite, Docker (basic)  
+- Specialized in **Java**, **Spring Boot**, **REST APIs** and backend architectures based on open source technologies.
+- Experienced in developing scalable, maintainable backend solutions in professional consulting environments.
+- Focused on writing clean, secure and efficient code, with attention to performance, maintainability and code quality.
+- Skilled in implementing application logic, data management and service integration.
+- Graduated from **Boolean**, where I built a solid full stack foundation with **PHP/Laravel**, **JavaScript/React**, **Node.js/Express** and **MySQL**.
+- Continuously improving my skills and exploring modern backend and frontend technologies.
+- Used to working with collaborative tools and Agile-oriented workflows.
 
-### 📫 Contact
-- 📧 Email: giuntagiovanni741@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/giovannigiunta/)  
+### Tech Stack
+
+**Backend:** Java, Spring Boot, PHP, Laravel, Node.js, Express  
+**Frontend:** React, Vue.js, JavaScript ES6+, HTML5, CSS3, Tailwind, Bootstrap  
+**Database:** MySQL, PhpMyAdmin  
+**Tools & DevOps:** Git, GitHub, GitLab, Azure DevOps, REST APIs, Vite, Docker basic, Nginx  
+
+### Contact
+
+- Email: giuntagiovanni741@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/giovannigiunta/)
+
 ---
 
-✨ *Always learning, always building.*  
+*Always learning, always building scalable and effective solutions.*
